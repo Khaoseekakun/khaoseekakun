@@ -4,6 +4,12 @@ Hi! I'm **Khaoseekakun**, a developer passionate about learning and improving th
 
 ---
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaoseekakun&show_icons=true&theme=radical)
+
+---
+
 ## 🔧 **Technical Skills**
 
 | **Technology** | **Proficiency** |
