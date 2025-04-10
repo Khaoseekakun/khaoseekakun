@@ -25,24 +25,6 @@ Hi! I'm **Khaoseekakun**, a developer passionate about learning and improving th
 | C#              | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ (5/100) |
 | C++             | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ (5/100) |
 
----
-
-## 🚀 **Projects**
-
-### 1. **[My Layout](https://github.com/Khaoseekakun/my-layout)**
-A layout management project for web development, using modern front-end technologies.
-
-### 2. **[TrueWalletGift](https://github.com/Khaoseekakun/TrueWalletGift)**
-Refined an existing codebase, added testing, and fixed bugs for enhanced reliability. Focuses on e-wallet integration.
-
-### 3. **[DiscordAutoDisconnectOnJoin](https://github.com/Khaoseekakun/DiscordAutoDisconnectOnJoin)**
-A tool to automatically disconnect members who join a voice channel on Discord.
-
-### 4. **[New Frontend](https://github.com/Khaoseekakun/new-frontend)**
-A modern front-end project hosted [here](https://new-frontend-three.vercel.app), built with Next.js and other web technologies.
-
----
-
 ## 🌟 **Goals and Interests**
 
 - Strengthening backend development skills.
